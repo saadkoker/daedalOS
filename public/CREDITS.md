@@ -1,5 +1,7 @@
 # Credits
 
+All of this was made by [Dustin Brett](https://github.com/DustinBrett/daedalOS?tab=readme-ov-file). Please check out the original (and 10x better) branch.
+
 This project is greatly augmented by code from the open source community. Thank you to all the developers who have contributed to these projects!
 
 ## Frameworks
