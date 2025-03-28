@@ -4,7 +4,7 @@ import {
   Download,
   Print,
   Subtract,
-} from "components/apps/PDF//ControlIcons";
+} from "components/apps/PDF/ControlIcons";
 import StyledControls from "components/apps/PDF/StyledControls";
 import { scales } from "components/apps/PDF/usePDF";
 import { type ComponentProcessProps } from "components/system/Apps/RenderComponent";
