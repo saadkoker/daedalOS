@@ -2,7 +2,7 @@
   "compilerOptions": {
     "allowJs": true,
     "allowUnreachableCode": false,
-    "baseUrl": "",
+    "baseUrl": ".",
     "esModuleInterop": true,
     "forceConsistentCasingInFileNames": true,
     "incremental": true,
